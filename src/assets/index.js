@@ -1,6 +1,7 @@
 import RegisterBg from "./images/register-bg.jpg";
 import LoginBg from "./images/login-bg.jpg";
 import GambarFooter from "./images/dino.png";
+import PrevDumy from "./images/preview-dumy.jpg";
 //icon
 import IFacebook from "./icon/icons8-facebook.svg";
 import Idiscord from "./icon/icons8-discord-bubble.svg";
@@ -19,4 +20,5 @@ export {
   ILinkedIn,
   ITelegram,
   Idiscord,
+  PrevDumy,
 };
